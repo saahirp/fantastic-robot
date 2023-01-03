@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 45px;
+width: 100%;
+margin: 0px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-image: linear-gradient(green, lime);
+}
+#status, #objectsdetected, #startbutton{
+    font-size: 37px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+canvas{
+    background-color: ivory;
+    box-shadow: 7px 8px 7px rgb(114, 114, 114);
+    border-radius: 16px;
+    margin-top: 32px;
+}
